@@ -1,0 +1,6 @@
+projectKey=JS_Without_AI_AuditMode
+serverUrl=https://sonarqube.pp.s2.capgemini.com/sonarqube
+serverVersion=2025.1.1.104738
+dashboardUrl=https://sonarqube.pp.s2.capgemini.com/sonarqube/dashboard?id=JS_Without_AI_AuditMode
+ceTaskId=099f4360-7c6e-4f34-b23e-a28caf646654
+ceTaskUrl=https://sonarqube.pp.s2.capgemini.com/sonarqube/api/ce/task?id=099f4360-7c6e-4f34-b23e-a28caf646654
